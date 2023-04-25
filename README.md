@@ -1,2 +1,1 @@
-# pipita
-repositorio de prueba del bootcamp de henry
+este proytecto es una prueba de como crear un repositorio desde github y clonarlo en mi pc.
